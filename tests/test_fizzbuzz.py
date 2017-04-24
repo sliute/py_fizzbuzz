@@ -10,4 +10,4 @@ def test_fizzbuzz_15():
     assert fizzbuzz(15) == "fizzbuzz"
 
 def test_fizzbuzz_nope():
-    assert fizzbuzz(7) == 7
+    assert fizzbuzz(7) == "7, this doesn't really fizzbuzz"
